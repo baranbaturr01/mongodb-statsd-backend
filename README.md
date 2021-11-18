@@ -1,1 +1,3 @@
-# mongodb-statsd-backend
+# StatsD backend for MongoDB
+
+

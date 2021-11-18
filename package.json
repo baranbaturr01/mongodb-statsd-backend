@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-statsd-backend",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baranbaturr01/mongodb-statsd-backend"
+  },
+  "keywords": [
+    "statsd",
+    "mongodb"
+  ],
+  "license": "MIT"
+}
